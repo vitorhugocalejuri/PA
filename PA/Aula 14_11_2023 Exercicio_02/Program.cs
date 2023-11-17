@@ -29,7 +29,7 @@ namespace Aula_14_11_2023_Exercicio_02
                 else
                 {
                     Console.ForegroundColor = ConsoleColor.White;
-                    Console.WriteLine($"Os números Impares são: {contador} ");
+                    Console.WriteLine($"Os números Pares são: {contador} ");
                     
                 }   
 
