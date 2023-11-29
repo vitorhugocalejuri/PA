@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_16_11_2023 Ex01", "Aul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula 21_11_2023 Ex01", "Aula 21_11_2023 Ex01\Aula 21_11_2023 Ex01.csproj", "{CB65A50B-F8BA-4756-BC05-9395814A441F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 23_11_2023", "Aula 23_11_2023\Aula 23_11_2023.csproj", "{0CC566F1-BE8D-41FA-B91F-0FCFFA5A4527}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula 23_11_2023", "Aula 23_11_2023\Aula 23_11_2023.csproj", "{0CC566F1-BE8D-41FA-B91F-0FCFFA5A4527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevisaoProvao_Ex01", "RevisaoProvao_Ex01\RevisaoProvao_Ex01.csproj", "{76F34367-9F17-411E-9C9E-1068D55D7B35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{0CC566F1-BE8D-41FA-B91F-0FCFFA5A4527}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CC566F1-BE8D-41FA-B91F-0FCFFA5A4527}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CC566F1-BE8D-41FA-B91F-0FCFFA5A4527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F34367-9F17-411E-9C9E-1068D55D7B35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F34367-9F17-411E-9C9E-1068D55D7B35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F34367-9F17-411E-9C9E-1068D55D7B35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F34367-9F17-411E-9C9E-1068D55D7B35}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
